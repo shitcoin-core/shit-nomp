@@ -1,6 +1,6 @@
 {
     "enabled": false,
-    "coin": "bellcoin.json",
+    "coin": "shitcoin.json",
 
     "address": "",
 
@@ -9,7 +9,7 @@
     },
 
     "paymentProcessing": {
-	"minConf": 10,
+	  "minConf": 10,
         "enabled": true,
         "paymentMode": "prop",
         "_comment_paymentMode":"prop, pplnt",
@@ -18,7 +18,7 @@
         "maxBlocksPerPayment": 3,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 25252,
+            "port": 9404,
             "user": "username",
             "password": "password"
         }
@@ -48,7 +48,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 25252,
+            "port": 9404,
             "user": "username",
             "password": "password"
         }
@@ -57,7 +57,7 @@
     "p2p": {
         "enabled": false,
         "host": "127.0.0.1",
-        "port": 25253,
+        "port": 9403,
         "disableTransactions": true
     },
 

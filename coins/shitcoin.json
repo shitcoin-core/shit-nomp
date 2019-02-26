@@ -1,0 +1,6 @@
+{
+    "name": "Shitcoin",
+    "symbol": "SHIT",
+    "algorithm": "lyra2re2",
+    "blockTime": 90
+}

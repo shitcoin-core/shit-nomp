@@ -1,20 +1,20 @@
 {
-    "name": "zny-nomp",
+    "name": "shit-nomp",
     "version": "0.0.4",
-    "description": "BitZeny (yescrypt) stratum mining pool based on NOMP",
+    "description": "Shitcoin (Lyra2REv2) stratum mining pool based on NOMP",
     "keywords": [
         "stratum",
         "mining",
         "pool",
         "server",
         "poolserver",
-        "bitzeny",
-        "zny",
-        "yescrypt"
+        "shitcoin",
+        "shit",
+        "lyra2rev2"
     ],
-    "homepage": "https://github.com/ROZ-MOFUMOFU-ME/zny-nomp",
+    "homepage": "https://github.com/shitcoin-core/shit-nomp",
     "bugs": {
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/zny-nomp/issues"
+        "url": "https://github.com/shitcoin-core/shit-nomp/issues"
     },
     "license": "MIT",
     "author": "Joshua Yabut",
@@ -32,7 +32,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/zny-nomp.git"
+        "url": "https://github.com/shitcoin-core/shit-nomp.git"
     },
     "dependencies": {
         "async": "2.3.0",
