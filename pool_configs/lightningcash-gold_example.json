@@ -1,14 +1,8 @@
 {
     "enabled": false,
-    "coin": "monacoin.json",
-
-    "blockIdentifier": "",
-    "_comment_blockIdentifier1": "a string embedded in the block to be mined. Used to identify the pool in Insight etc etc.",
-    "_comment_blockIdentifire2": "If this value equals null string, website.stratumHost in 'config.json' is used.",
+    "coin": "ltncg.json",
 
     "address": "",
-    "BTCover17": true,
-    "_comment_BTCover17": "If BTC 0.17 or higher, payment does not work please enable it",
 
     "rewardRecipients": {
         "": 1.0
@@ -24,7 +18,7 @@
         "maxBlocksPerPayment": 3,
         "daemon": {
             "host": "127.0.0.1",
-            "port": 9402,
+            "port": 9110,
             "user": "username",
             "password": "password"
         }
@@ -54,7 +48,7 @@
     "daemons": [
         {
             "host": "127.0.0.1",
-            "port": 9402,
+            "port": 19707,
             "user": "username",
             "password": "password"
         }
@@ -63,7 +57,7 @@
     "p2p": {
         "enabled": false,
         "host": "127.0.0.1",
-        "port": 9401,
+        "port": 9111,
         "disableTransactions": true
     },
 
